@@ -16,6 +16,7 @@ matplotlib 3.1.1
 scikit-learn 0.22.2
 ```
 ### Variational Autoencoders
+See README in the VAE folder.
 
 ### Bayesian Neural newtworks
 
