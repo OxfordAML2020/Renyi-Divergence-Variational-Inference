@@ -2,6 +2,8 @@
 This repository contains the code we used to replicate the paper [[1]](https://arxiv.org/pdf/1602.02311.pdf) on using Renyi alpha-divergences for Variational Inference.
 Our implementation is based on PyTorch and we extended the [basic example of a VAE](https://github.com/pytorch/examples/blob/master/vae/main.py) from the PyTorch library.
 
+Our implementation also tries to parallel the repo [here](https://github.com/YingzhenLi/VRbound) where possible, which is that for the authors of the paper cited above.
+
 A commented version of our code that works on the MNIST and FashionMNIST dataset can be found in the file `example_models.py`. The rest of our code (which we ran on and optimized for) Google Colab is in the `experiments` directory.
 ## Running an experiment
 ### Without any set up
