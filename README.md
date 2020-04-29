@@ -19,4 +19,7 @@ scikit-learn 0.22.2
 
 ### Bayesian Neural newtworks
 
-The main code to replicate the experiments is 
+The main code to replicate the experiments is code.py in the BNN folder
+The code to preprocess the data is data.py
+All of the datasets required for replication is present in BNN/datasets/
+
