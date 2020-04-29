@@ -15,3 +15,6 @@ scipy 1.2.1
 matplotlib 3.1.1
 scikit-learn 0.22.2
 ```
+### Variational Autoencoders
+
+### Bayesian Neural newtworks
