@@ -4,7 +4,7 @@ Our implementation is based on PyTorch and we extended the [basic example of a V
 
 A commented version of our code that works on the MNIST and FashionMNIST dataset can be found in the file `example_models.py`. The rest of our code (which we ran on and optimized for) Google Colab is in the `experiments` directory.
 ## Running an experiment
-###Without any set up
+### Without any set up
 
 Run the `Run_experiments_on_MNIST_FashionMNIST.ipynb` notebook in Google Colab.
 The code in this notebook works on the MNIST and FashionMNIST dataset.
