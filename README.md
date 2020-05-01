@@ -22,7 +22,16 @@ See README in the VAE folder.
 
 The main code to replicate the experiments is the file code.py in the BNN folder <br />
 The code to preprocess the data is data.py. <br />
-All of the datasets required for replication is present in BNN/datasets/.
-All the runs for replication of results presented in the reprt can be found in jobs.sh
+All of the datasets required for replication is present in BNN/datasets/.<br />
+The file code.py takes command line inputs for various parameters required to run experiments.
+```
+python code.py --dataset --alpha --seed --lr --v_prior --batch_size --epochs --K --hidden_size --offset --init_scale
+```
+All the experiments for replication of results presented in the report can be found in jobs.sh<br />
+To execute this file run,<br />
+```
+./jobs.sh
+```
+
 
 
