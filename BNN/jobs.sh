@@ -92,7 +92,7 @@ python code.py --dataset=year --alpha=inf --epochs=40 --K=10 --seed=2
 
 for alpha in -100 -10 -5 5 10 100 1000 10000 100000 1000000 10000000
 	do
-		for seed in {12..42..2}
+		for seed in {2..40..2}
 			do
 				python code.py --dataset=boston --alpha=$alpha --epochs=500 --K=100 --seed=$seed
 				python code.py --dataset=yacht --alpha=$alpha --epochs=500 --K=100 --seed=$seed
