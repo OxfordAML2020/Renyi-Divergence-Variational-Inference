@@ -20,7 +20,7 @@ See README in the VAE folder.
 
 ### Bayesian Neural newtworks
 
-The main code to replicate the experiments is code.py in the BNN folder
+The main code to replicate the experiments is the file code.py in the BNN folder
 The code to preprocess the data is data.py
 All of the datasets required for replication is present in BNN/datasets/
 
