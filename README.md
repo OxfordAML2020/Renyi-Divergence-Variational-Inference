@@ -25,7 +25,7 @@ The code to preprocess the data is data.py. <br />
 All of the datasets required for replication is present in BNN/datasets/.<br />
 The file code.py takes command line inputs for various parameters required to run experiments.
 ```
-python code.py --dataset --alpha --seed --lr --v_prior --batch_size --epochs --K --hidden_size --offset --init_scale
+python code.py --dataset=dataset --alpha=alpha --seed=seed --lr=learning_rate --v_prior=v_prior --batch_size=batch_size --epochs=epochs --K=K --hidden_size=hidden layer size --offset=mean value --init_scale=standard deviation
 ```
 All the experiments for replication of results presented in the report can be found in jobs.sh<br />
 To execute this file run,<br />
