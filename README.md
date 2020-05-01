@@ -1,6 +1,6 @@
 # Renyi-Divergence-Variational-Inference
 
-project description
+This repository contains the code we used to replicate the paper [[1]](https://arxiv.org/pdf/1602.02311.pdf) on using Renyi alpha-divergences for Variational Inference.
 
 ## Getting Started
 
