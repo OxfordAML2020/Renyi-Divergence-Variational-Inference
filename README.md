@@ -18,7 +18,7 @@ scikit-learn 0.22.2
 ### Variational Autoencoders
 See README in the VAE folder.
 
-### Bayesian Neural newtworks
+### Bayesian Neural networks
 
 The main code to replicate the experiments is the file `code.py` in the BNN folder <br />
 The code to preprocess the data is `data.py` <br />
